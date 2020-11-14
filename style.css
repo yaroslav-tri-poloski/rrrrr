@@ -1,0 +1,11 @@
+
+div{
+    padding: 100px;
+    width: 600px;
+    height: 400px;
+    background-color: firebrick;
+    margin: 0 auto;
+}
+p{
+    position: absolute;
+}
